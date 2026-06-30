@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">RSVP Form Example</title>
+  <desc id="desc">A pastel fifth birthday RSVP form with balloons and cute response fields.</desc>
+  <rect width="900" height="520" fill="#fff1f2"/>
+  <rect x="96" y="56" width="708" height="408" rx="34" fill="#ffffff" stroke="#fecdd3" stroke-width="4"/>
+  <g>
+    <ellipse cx="170" cy="128" rx="38" ry="48" fill="#f9a8d4"/>
+    <ellipse cx="228" cy="104" rx="34" ry="44" fill="#bfdbfe"/>
+    <ellipse cx="736" cy="124" rx="38" ry="48" fill="#c4b5fd"/>
+    <ellipse cx="674" cy="96" rx="34" ry="44" fill="#bbf7d0"/>
+    <path d="M170 176c-10 38-16 76-8 112M228 148c16 34 24 72 20 118M736 172c12 36 14 76 6 112M674 140c-16 36-24 74-18 116" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  </g>
+  <text x="450" y="132" text-anchor="middle" fill="#be185d" font-family="Nunito, Arial, sans-serif" font-size="30" font-weight="800">Julie's</text>
+  <text x="450" y="184" text-anchor="middle" fill="#831843" font-family="Nunito, Arial, sans-serif" font-size="58" font-weight="800">5th Birthday Party</text>
+  <text x="450" y="224" text-anchor="middle" fill="#64748b" font-family="Nunito, Arial, sans-serif" font-size="24" font-weight="700">RSVP Form</text>
+  <g font-family="Nunito, Arial, sans-serif" font-size="23" fill="#374151" font-weight="700">
+    <rect x="230" y="270" width="440" height="42" rx="12" fill="#fdf2f8"/>
+    <text x="252" y="299">Name</text>
+    <rect x="230" y="326" width="440" height="42" rx="12" fill="#eff6ff"/>
+    <text x="252" y="355">Will you come?</text>
+    <circle cx="540" cy="347" r="10" fill="#86efac"/>
+    <text x="560" y="355">Yes</text>
+    <circle cx="612" cy="347" r="10" fill="#f9a8d4"/>
+    <text x="632" y="355">No</text>
+    <rect x="230" y="382" width="440" height="42" rx="12" fill="#faf5ff"/>
+    <text x="252" y="411">Favorite cupcake flavor</text>
+  </g>
+</svg>
