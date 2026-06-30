@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Renewable Resources Slide Glow-Up</title>
+  <desc id="desc">A polished infographic slide about solar, wind, hydropower, geothermal, and biomass energy.</desc>
+  <rect width="900" height="520" fill="#faf5ff"/>
+  <rect x="56" y="52" width="788" height="416" rx="28" fill="#ffffff" stroke="#ddd6fe" stroke-width="4"/>
+  <text x="450" y="118" text-anchor="middle" fill="#4c1d95" font-family="Nunito, Arial, sans-serif" font-size="44" font-weight="800">Renewable Resources</text>
+  <text x="450" y="154" text-anchor="middle" fill="#64748b" font-family="Nunito, Arial, sans-serif" font-size="22" font-weight="700">clean energy sources at a glance</text>
+  <g font-family="Nunito, Arial, sans-serif" font-size="20" font-weight="800" text-anchor="middle">
+    <g transform="translate(178 284)">
+      <circle r="58" fill="#fef3c7"/>
+      <circle r="24" fill="#facc15"/>
+      <path d="M0-86v24M0 62v24M-86 0h24M62 0h24M-61-61l17 17M44 44l17 17M61-61 44-44M-44 44l-17 17" stroke="#f59e0b" stroke-width="8" stroke-linecap="round"/>
+      <text y="104" fill="#78350f">Solar</text>
+    </g>
+    <g transform="translate(314 284)">
+      <circle r="58" fill="#dbeafe"/>
+      <path d="M0-54v94" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+      <circle r="8" fill="#2563eb"/>
+      <path d="M0 0 48-26M0 0-47-28M0 0l0 54" stroke="#60a5fa" stroke-width="8" stroke-linecap="round"/>
+      <text y="104" fill="#1e3a8a">Wind</text>
+    </g>
+    <g transform="translate(450 284)">
+      <circle r="58" fill="#cffafe"/>
+      <path d="M-46 4c26-28 56-28 92 0-26 38-64 42-92 0Z" fill="#38bdf8"/>
+      <path d="M-36 18c24 14 48 14 72 0" fill="none" stroke="#0284c7" stroke-width="7" stroke-linecap="round"/>
+      <text y="104" fill="#155e75">Hydro</text>
+    </g>
+    <g transform="translate(586 284)">
+      <circle r="58" fill="#fee2e2"/>
+      <path d="M-28 38c18-40 20-68 6-92 35 18 57 60 22 92 18-8 30-21 34-38 12 35-8 62-62 38Z" fill="#fb7185"/>
+      <text y="104" fill="#9f1239">Geothermal</text>
+    </g>
+    <g transform="translate(722 284)">
+      <circle r="58" fill="#dcfce7"/>
+      <path d="M-36 18c28-60 78-66 92-6-26 12-56 16-92 6Z" fill="#22c55e"/>
+      <path d="M-44 34c18-28 45-44 82-48" fill="none" stroke="#166534" stroke-width="7" stroke-linecap="round"/>
+      <text y="104" fill="#14532d">Biomass</text>
+    </g>
+  </g>
+</svg>

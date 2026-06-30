@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Phone Declutter Checklist</title>
+  <desc id="desc">A blue and white phone declutter checklist with neat checkbox rows.</desc>
+  <rect width="900" height="520" fill="#eff6ff"/>
+  <rect x="72" y="56" width="756" height="408" rx="34" fill="#ffffff" stroke="#bfdbfe" stroke-width="4"/>
+  <rect x="112" y="102" width="224" height="308" rx="32" fill="#dbeafe"/>
+  <rect x="138" y="130" width="172" height="246" rx="24" fill="#ffffff"/>
+  <rect x="186" y="146" width="76" height="8" rx="4" fill="#93c5fd"/>
+  <circle cx="224" cy="326" r="18" fill="#bfdbfe"/>
+  <text x="388" y="138" fill="#1e3a8a" font-family="Nunito, Arial, sans-serif" font-size="42" font-weight="800">Phone Declutter</text>
+  <text x="388" y="184" fill="#64748b" font-family="Nunito, Arial, sans-serif" font-size="24" font-weight="700">tiny checklist</text>
+  <g font-family="Nunito, Arial, sans-serif" font-size="28" fill="#374151" font-weight="700">
+    <rect x="390" y="224" width="28" height="28" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="4"/>
+    <path d="m398 237 8 8 17-20" fill="none" stroke="#16a34a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="440" y="248">Clear duplicate photos</text>
+    <rect x="390" y="278" width="28" height="28" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="4"/>
+    <path d="m398 291 8 8 17-20" fill="none" stroke="#16a34a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="440" y="302">Sort apps into folders</text>
+    <rect x="390" y="332" width="28" height="28" rx="7" fill="#fdf2f8" stroke="#f9a8d4" stroke-width="4"/>
+    <text x="440" y="356">Save favorite contacts</text>
+    <rect x="390" y="386" width="28" height="28" rx="7" fill="#fdf2f8" stroke="#f9a8d4" stroke-width="4"/>
+    <text x="440" y="410">Make storage room</text>
+  </g>
+</svg>
